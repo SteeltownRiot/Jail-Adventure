@@ -1,2 +1,2 @@
 # Jail-Adventure
-A simple gaem
+A simple text-based puzzle game.
